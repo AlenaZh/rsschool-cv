@@ -2,8 +2,6 @@
 
 ## Contacts
 
----
-
 **E-mail:** cont116az@gmail.com  
 **Discord:** Aliona#9482
 
@@ -16,8 +14,6 @@ My goal is to find my first job as a frontend developer. I hope RS School will h
 
 ## Skills
 
----
-
 - HTML, CSS
 - BEM-naming
 - JavaScript Basics
@@ -26,8 +22,6 @@ My goal is to find my first job as a frontend developer. I hope RS School will h
 - VSCode
 
 ## Code example
-
----
 
 ### [Count characters in your string (Codewars)](https://www.codewars.com/kata/52efefcbcdf57161d4000091/train/javascript)
 
@@ -51,8 +45,6 @@ function count(string) {
 
 ## Work experience
 
----
-
 ### [DEVICE](https://alenazh.github.io/74844-device-25/)
 
 ⚙️ _HTML, CSS, JS_  
@@ -70,8 +62,6 @@ A personal project from the HTML Academy course "Professional HTML & CSS, Level 
 
 ## Education
 
----
-
 | Year | Course                                                                                                                                                                                                                                                                                                                                                                                   |
 | ---- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | 2019 | **HTML Academy** <br> [Professional HTML & CSS, level 1](https://assets.htmlacademy.ru/certificates/intensive/109/74844.pdf)                                                                                                                                                                                                                                                             |
@@ -79,8 +69,6 @@ A personal project from the HTML Academy course "Professional HTML & CSS, Level 
 | 2022 | **HTML Academy** <br> Creating semantic markup by layout <br> BEM markup                                                                                                                                                                                                                                                                                                                 |
 
 ## Language
-
----
 
 English - A1 (Elementary)  
 Russian - Native
