@@ -7,8 +7,6 @@
 
 ## About me
 
----
-
 Until recently, web development was only a hobby for me.  
 My goal is to find my first job as a frontend developer. I hope RS School will help me to do it.
 
